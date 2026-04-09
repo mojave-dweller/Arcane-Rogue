@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Effects/AmbientDiffuseLight.fx</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Effects/Composite.fx</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Effects/PointLight.fx</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Effects/SunLight.fx</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Effects/Blur.fx</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/bosskeysprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/chestsprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/golduisprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/lightningscrollsprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/lightninguisprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/Map.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/missilescrollsprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/missileuisprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/potionuisprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/regularkeysprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/teleportscrollsprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/teleportuisprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/whipscrollsprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/Textures/whipuisprite.png</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/TinyText.spriteFont</File>
+    <File>C:/Users/chris/Documents/ACC Spring 2026/Project Dev/Project Development - Arcane Knight/Project Development - Arcane Knight/Content/BigText.spriteFont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

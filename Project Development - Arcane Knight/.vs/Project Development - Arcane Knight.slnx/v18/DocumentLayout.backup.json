@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Documents\\ACC Spring 2026\\Project Dev\\Project Development - Arcane Knight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A89B7F7B-D113-BDE5-8CAA-AA3BFC1543B4}|Project Development - Arcane Knight\\Project Development - Arcane Knight.csproj|c:\\users\\chris\\documents\\acc spring 2026\\project dev\\project development - arcane knight\\project development - arcane knight\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89B7F7B-D113-BDE5-8CAA-AA3BFC1543B4}|Project Development - Arcane Knight\\Project Development - Arcane Knight.csproj|solutionrelative:project development - arcane knight\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89B7F7B-D113-BDE5-8CAA-AA3BFC1543B4}|Project Development - Arcane Knight\\Project Development - Arcane Knight.csproj|c:\\users\\chris\\documents\\acc spring 2026\\project dev\\project development - arcane knight\\project development - arcane knight\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89B7F7B-D113-BDE5-8CAA-AA3BFC1543B4}|Project Development - Arcane Knight\\Project Development - Arcane Knight.csproj|solutionrelative:project development - arcane knight\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89B7F7B-D113-BDE5-8CAA-AA3BFC1543B4}|Project Development - Arcane Knight\\Project Development - Arcane Knight.csproj|c:\\users\\chris\\documents\\acc spring 2026\\project dev\\project development - arcane knight\\project development - arcane knight\\savedataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89B7F7B-D113-BDE5-8CAA-AA3BFC1543B4}|Project Development - Arcane Knight\\Project Development - Arcane Knight.csproj|solutionrelative:project development - arcane knight\\savedataclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\ACC Spring 2026\\Project Dev\\Project Development - Arcane Knight\\Project Development - Arcane Knight\\Game1.cs",
+              "RelativeDocumentMoniker": "Project Development - Arcane Knight\\Game1.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\ACC Spring 2026\\Project Dev\\Project Development - Arcane Knight\\Project Development - Arcane Knight\\Game1.cs",
+              "RelativeToolTip": "Project Development - Arcane Knight\\Game1.cs",
+              "ViewState": "AgIAAMAMAAAAAAAAAAAuwKcMAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T04:00:41.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveDataClass.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\ACC Spring 2026\\Project Dev\\Project Development - Arcane Knight\\Project Development - Arcane Knight\\SaveDataClass.cs",
+              "RelativeDocumentMoniker": "Project Development - Arcane Knight\\SaveDataClass.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\ACC Spring 2026\\Project Dev\\Project Development - Arcane Knight\\Project Development - Arcane Knight\\SaveDataClass.cs",
+              "RelativeToolTip": "Project Development - Arcane Knight\\SaveDataClass.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:51:08.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Documents\\ACC Spring 2026\\Project Dev\\Project Development - Arcane Knight\\Project Development - Arcane Knight\\Camera.cs",
+              "RelativeDocumentMoniker": "Project Development - Arcane Knight\\Camera.cs",
+              "ToolTip": "C:\\Users\\chris\\Documents\\ACC Spring 2026\\Project Dev\\Project Development - Arcane Knight\\Project Development - Arcane Knight\\Camera.cs",
+              "RelativeToolTip": "Project Development - Arcane Knight\\Camera.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T20:19:35.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

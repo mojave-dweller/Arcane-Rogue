@@ -1,0 +1,51 @@
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\BigText.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Effects\AmbientDiffuseLight.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\SmallText.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\bosskeysprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\golduisprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\lightninguisprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\Map.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\missileuisprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\potionuisprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\regularkeysprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\teleportuisprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\whipuisprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Project Development - Arcane Knight.exe
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Project Development - Arcane Knight.deps.json
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Project Development - Arcane Knight.runtimeconfig.json
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Project Development - Arcane Knight.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Project Development - Arcane Knight.pdb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\NVorbis.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.AssemblyInfo.cs
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project .B23E970C.Up2Date
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\refint\Project Development - Arcane Knight.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.pdb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\Project Development - Arcane Knight.genruntimeconfig.cache
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\obj\Debug\net9.0\ref\Project Development - Arcane Knight.dll
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\TinyText.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\chestsprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\lightningscrollsprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\missilescrollsprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\teleportscrollsprite.xnb
+C:\Users\chris\Documents\ACC Spring 2026\Project Dev\Project Development - Arcane Knight\Project Development - Arcane Knight\bin\Debug\net9.0\Content\Textures\whipscrollsprite.xnb
