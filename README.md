@@ -6,19 +6,19 @@ A 2D action dungeon crawler built in MonoGame (C#), featuring physics-driven com
 
 ## Screenshots
 
-[![Enemies and Attacking](GIFs/Enemies_and_Attacking.gif)](GIFs/Enemies_and_Attacking.gif)
+[![Enemies and Attacking](GIFs/enemiesandattacking.gif)](GIFs/enemiesandattacking.gif)
 
-[![Picking up Scrolls and Using Them](GIFs/Picking_up_Scrolls_and_Using_Them.gif)](GIFs/Picking_up_Scrolls_and_Using_Them.gif)
+[![Picking up Scrolls and Using Them](GIFs/scrolls.gif)](GIFs/scrolls.gif)
 
-[![Interacting with the Vendor](GIFs/Interacting_with_the_Vendor.gif)](GIFs/Interacting_with_the_Vendor.gif)
+[![Interacting with the Vendor](GIFs/vendor.gif)](GIFs/vendor.gif)
 
-[![Teleport Traversal and Key Pick-up](GIFs/Teleport_Traversal_and_Key_Pick-up.gif)](GIFs/Teleport_Traversal_and_Key_Pick-up.gif)
+[![Teleport Traversal and Key Pick-up](GIFs/teleportandkeys.gif)](GIFs/teleportandkeys.gif)
 
-[![Dark Dungeon](GIFs/Dark_Dungeon.gif)](GIFs/Dark_Dungeon.gif)
+[![Dark Dungeon](GIFs/darkdungeon.gif)](GIFs/darkdungeon.gif)
 
-[![Entering Boss Room and Boss Battle](GIFs/Entering_Boss_Room_and_Boss_Battle.gif)](GIFs/Entering_Boss_Room_and_Boss_Battle.gif)
+[![Entering Boss Room and Boss Battle](GIFs/bossroomandbattle.gif)](GIFs/bossroomandbattle.gif)
 
-[![Pause Menu](GIFs/Pause_Menu.gif)](GIFs/Pause_Menu.gif)
+[![Pause Menu](GIFs/pause.gif)](GIFs/pause.gif)
 
 ---
 
